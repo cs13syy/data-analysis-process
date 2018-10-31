@@ -4,8 +4,8 @@
 ## Data Types
 [cardinal, ordinal, nominal 구분하기](https://www.mathsisfun.com/numbers/cardinal-ordinal-nominal.html)
 ## Imputing Missing Data
-[데이터 분석 최대의 적! 결측치(NA값) 처리하기](https://m.blog.naver.com/tjdudwo93/220976082118)
-[기본적인 결측치 처리 방법](https://www.r-bloggers.com/missing-value-treatment/)
+[데이터 분석 최대의 적! 결측치(NA값) 처리하기](https://m.blog.naver.com/tjdudwo93/220976082118)</br>
+[기본적인 결측치 처리 방법](https://www.r-bloggers.com/missing-value-treatment/)<br>
 [MICE 패키지를 활용한 결측치 처리](https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/)
 ## Feature Hashing
 [해싱의 기능과 알고리즘](http://omnis.tistory.com/entry/Hashing-%EC%9D%B4%EB%9E%80)
